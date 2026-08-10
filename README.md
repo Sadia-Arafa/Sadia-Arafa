@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently studying BCA final year 6th sem at BNU university.<br>looking forward for job opertuties to gain hand on experience.I have done my internshipin data science.
+i have just completed my BCA from BNU university.<br>looking forward for job opportunities to gain hand on experience. I have done my internshipin data science.
 
 
 ## 🌐 Socials:
